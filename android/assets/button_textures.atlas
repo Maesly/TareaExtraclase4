@@ -1,0 +1,75 @@
+
+button_textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+decline_button
+  rotate: false
+  xy: 1, 809
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+agree_button
+  rotate: false
+  xy: 1, 607
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+agree_pressed_button
+  rotate: false
+  xy: 303, 809
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+play_button
+  rotate: false
+  xy: 1, 405
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+play_pressed_button
+  rotate: false
+  xy: 303, 607
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+decline_pressed_button
+  rotate: false
+  xy: 605, 809
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+setting_pressed_button
+  rotate: false
+  xy: 1, 203
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+setting_button
+  rotate: false
+  xy: 303, 405
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+game_setting_button
+  rotate: false
+  xy: 605, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+game_setting_pressed_button
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
